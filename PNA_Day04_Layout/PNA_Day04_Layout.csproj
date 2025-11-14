@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Aspose.HTML.Drawing" Version="25.9.0" />
+    <PackageReference Include="Magicodes.IE.Pdf" Version="2.7.6" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
   </ItemGroup>
 
